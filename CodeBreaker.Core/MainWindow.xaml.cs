@@ -19,6 +19,6 @@ public partial class MainWindow : Window
     public MainWindow()
     {
         InitializeComponent();
-        int a;
+        double a;
     }
 }
